@@ -102,6 +102,5 @@ This section contains a list of projects with brief descriptions.
 * [Agile Requirements Foundations](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Certificate%20Agile%20Requirements%20Foundations.pdf) - Linkedin Learning, 2023
 
 ## Contacts
-## Contacts
 * LinkedIn: [@gabrieliretiayo](https://uk.linkedin.com/in/iretiayooyewole60704850/)
 * Email: gabrieliretiayo@gmail.com
