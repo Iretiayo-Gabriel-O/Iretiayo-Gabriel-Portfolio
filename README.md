@@ -12,11 +12,8 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Adidas US sales data analysis](#adidas-us-sales-data-analysis)
   - [Real estate US SQL and Power BI analysis](#real-estate-us-sql-and-power-bi-analysis)
 * [Study projects](#study-projects)
-  - [Python Data Analysis](#python-data-analysis)
+  - [Power BI Data Analysis](#python-data-analysis)
   - [Excel Exercises](#excel-exercises)
-  - [R Exercises](#r-exercises)
-  - [SQL Exercises](#sql-exercises)
-  - [ETL pipelines project](#etl-pipelines-project)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 ## Portfolio Projects
@@ -30,8 +27,8 @@ This section contains a list of projects with brief descriptions.
   <code>PowerPoint PPTX dynamic version</code></a><br>
 **Original dataset:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
   <code>german-cars-dataset.csv</code></a><br>
-**Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
-**Hard skills:** MS PowerPoint, Python: Pandas, NumPy, Mathplotlib, Seaborn. <br>
+**Skills:** analytical thinking, data cleaning, data manipulation data analysis, data vizualization, presentations<br>
+**Hard skills:** MS PowerPoint, Python: 
 **Results:** An analysis of a dataset containing information about cars posted on AutoScaut 24 was conducted. Some insights were found, visualized, and included in the presentation.
 ### Adidas US sales data analysis
 **Description:** The goal of this project is to use Excel functionality to analyze data about Adidas's product sales in the United States, which contain information in 9652 rows and 14 columns for the fiscal years 2020 and 2021. Visualize data, prepare different types of reports and interactive dashboard. <br>
