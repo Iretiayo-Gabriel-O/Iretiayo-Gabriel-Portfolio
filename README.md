@@ -2,7 +2,7 @@
 ## About me
 Hi, I am Gabriel a Business and Data Analyst proficient in Business Intelligence & Analytics, Data Cleaning, manipulation & Analysis, Project planning, Predictive modelling, Dashboard Development, KPI monitoring, Risk Management, Quality assurance, and Trend analysis.
 
-You can see more information in my [**CV**](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Data%20Analyst%20CV.pdf).
+You can see more information in my [**CV**](IRETIAYO_GABRIEL___O__ATS_CV.pdf).
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
 ## Contents
